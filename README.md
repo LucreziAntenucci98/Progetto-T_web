@@ -1,2 +1,2 @@
-# Progetto-T_web
-utilizzo di laravel, html,css,javascript
+# Progetto-TecnologieWeb
+Realizzazione di un sito web utilizzando il framework Laravel.
